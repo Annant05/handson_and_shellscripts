@@ -1,0 +1,6 @@
+{
+    "to_attach_volume":
+    {
+        "cmd":"docker run -p 3000:3000 -v /app/node_modules -v $(pwd):/app 8b6b038d6307"
+    }
+}
