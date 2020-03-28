@@ -2,7 +2,7 @@
 # run using-> sh vscode_install.sh
 VERSION="3.0.1"
 PORT=8080
-INSTALL_DIR="/home/ubuntu/test"
+INSTALL_DIR="/home/ubuntu"
 wget https://github.com/cdr/code-server/releases/download/${VERSION}/code-server-${VERSION}-linux-x86_64.tar.gz
 tar -xvzf code-server-${VERSION}-linux-x86_64.tar.gz
 rm code-server-${VERSION}-linux-x86_64.tar.gz
