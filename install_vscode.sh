@@ -1,6 +1,6 @@
 # save this script to vscode_install.sh 
 # run using-> sh vscode_install.sh
-VERSION="3.0.1"
+VERSION="3.0.2"
 PORT=8080
 INSTALL_DIR="/home/ubuntu"
 wget https://github.com/cdr/code-server/releases/download/${VERSION}/code-server-${VERSION}-linux-x86_64.tar.gz
